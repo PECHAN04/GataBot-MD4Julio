@@ -825,6 +825,206 @@ if (chat.audios && m.text.match(/(vetealavrg|vete a la vrg|vete a la verga)/gi))
 let vn = './media/vete a la verga.mp3'
 this.sendPresenceUpdate('recording', m.chat)   
 this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D01|d01|bailar)/gi)) {
+let vn = './media/tameimpala.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(D02|d02)/gi)) {
+let vn = './media/3maÃ±ana.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(abacho|Abrazo|Abacho|abrazo)/gi)) {
+let vn = './media/abacho.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D03|d03)/gi)) {
+let vn = './media/bailar.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D04|d04)/gi)) {
+let vn = './media/bosquechina.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D05|d05)/gi)) {
+let vn = './media/camisanegra.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D06|d06)/gi)) {
+let vn = './media/caramelldance.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D07|d07)/gi)) {
+let vn = './media/duro_doshoras.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D08|d08)/gi)) {
+let vn = './media/lamama.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D09|d09)/gi)) {
+let vn = './media/LamentoBoliviano.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D10|d10|te llevo dentro|raiz|raÃ­z)/gi)) {
+let vn = './media/raiz.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D11|d11)/gi)) {
+let vn = './media/LevanPolka.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D12|mueren por mi|d12)/gi)) {
+let vn = './media/mueren_pormi.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D13|d13)/gi)) {
+let vn = './media/ninjabang.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(Nyanpasu2|nyanpasu2)/gi)) {
+let vn = './media/nyanpasu2.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(volvi|Volvi|VolvÃ­|volvÃ­|regrese|Regrese)/gi)) {
+let vn = './media/okaerionichan.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D14|d14|7v7|7u7|fanatica|sensual)/gi)) {
+let vn = './media/sensual.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D18|d18)/gi)) {
+let vn = './media/pokerface.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D15|d15)/gi)) {
+let vn = './media/mirada.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(bebe|Bebe|bb|beito|caramelo|enpapame)/gi)) {
+let vn = './media/bebe.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D16|d16)/gi)) {
+let vn = './media/electro1.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D17|d17)/gi)) {
+let vn = './media/michael.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+        
+if (chat.audios && m.text.match(/(d21|D21|encantas)/gi)) {
+let vn = './media/meencantas.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(Op2|op2)/gi)) {
+let vn = './media/domestic.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(Yoshi|d00|D00)/gi)) {
+let vn = './media/papupapu.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(Turip|turip|ip)/gi)) {
+let vn = './media/turipp.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(D22|d22|modelame|Modelame)/gi)) {
+let vn = './media/pose.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(dinosonichan|Dinosonichan|Dinos onichan|Dinos Onichan)/gi)) {
+let vn = './media/dinosonichan.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+
+if (chat.audios && m.text.match(/(Op1|op1)/gi)) {
+let vn = './media/noragami.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d19|D19|dancin)/gi)) {
+let vn = './media/dancin.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(semen|Semen|pene|Pene|cojan)/gi)) {
+let vn = './media/semen.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d20|D20|Mimimi|mimimi|loli)/gi)) {
+let vn = './media/mimimi.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d23|D23|random|loco|gobierno)/gi)) {
+let vn = './media/vaca.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d24|D24|dota)/gi)) {  
+let vn = './media/dota.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}    
+
+if (chat.audios && m.text.match(/(d25|D25|sad)/gi)) {  
+let vn = './media/lives.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d26|D26|rasputin)/gi)) {
+let vn = './media/rasputin.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d27|maÃ±ana|D27)/gi)) {
+let vn = './media/sad2.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(d28|D28|:'u|:"u|All my friend|gobierno)/gi)) {
+let vn = './media/tosic.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(cielo|d29|D29)/gi)) {
+let vn = './media/cielo.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+    
+if (chat.audios && m.text.match(/(panamericano|d30|D30)/gi)) {
+let vn = './media/panamericano.mp3'
+this.sendPresenceUpdate('recording', m.chat)
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
    
 return !0 }
 export default handler
